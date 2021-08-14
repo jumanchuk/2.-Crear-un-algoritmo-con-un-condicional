@@ -1,0 +1,1 @@
+# 2.-Crear-un-algoritmo-con-un-condicional
